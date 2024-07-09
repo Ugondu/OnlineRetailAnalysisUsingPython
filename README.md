@@ -6,7 +6,7 @@
 - [Data Sources](#data-sources)
 - [Data Processing](#data-processing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Insights and Findings](insights-and-findings)
+- [Insights and Findings](#insights-and-findings)
 - [Conclusion and Recommendation](#conclusion-and-recommendation)
 ## Business Problem Overview.
 The Category Manager for Chips, a company specialized in the sales of chips wishes to understand the category of customers that patronize the business. The manager intends to understand their purchasing and spending behavior to enable the company to target specialized promotions to these group of customers. The insights will aid the company strategy in the next half of the year.
