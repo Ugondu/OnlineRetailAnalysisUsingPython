@@ -1,5 +1,5 @@
 #Quantium Customer Purchasing and Spending Behaviour.
-*"C:\Users\ADACHUKWU\OneDrive\Desktop\Quantium.jpeg"*
+*![Quantium](https://github.com/Ugondu/ExploratoryDataAnalysisforQuantium/assets/113315492/2268dc51-73a6-4996-a3d4-eac3f2e637ff)*
 ## Table of Contents.
 - [Business Problem Overview](#business-problem-overview)
 - [Project Objective](#project-objective)
